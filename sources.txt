@@ -1,0 +1,18 @@
+https://www.aggdata.com/awards/oscar
+https://www.kaggle.com/tmdb/tmdb-movie-metadata/data
+https://figshare.com/articles/On_screen_movie_kill_counts_for_hundreds_of_films/889719
+
+
+actors:		 54.386 línur	1 dálkar	 54.386 reitir
+movies:		  5.710 línur	9 dálkar	 51.390 reitir
+castmembers:	106.076 línur	2 dálkar	212.152 reitir
+genres:		 12.615 línur	2 dálkar	 25.230 reitir
+awards:		  2.086 línur	6 dálkar	 12.516 reitir
+
+5 töflur,   	180.873 línur	20 dálkar	355.674 reitir
+
+
+Þurfti að:
+Leiðrétta upphæðir á revenue og budget sem voru scrape-uð vitlaust
+Laga til nöfnin úr gögnunum til að þau stemmi milli csv skráa
+Henda út gögnum sem voru algjörlega bull
